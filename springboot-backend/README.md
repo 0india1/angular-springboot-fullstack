@@ -1,2 +1,1 @@
-# angular-springboot-fullstack
-# angular-springboot-fullstack
+Go to SpringBootApplication.java and run application as Java program
